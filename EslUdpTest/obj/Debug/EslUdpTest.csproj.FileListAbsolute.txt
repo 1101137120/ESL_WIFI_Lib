@@ -1,0 +1,6 @@
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\EslUdpTest\bin\Debug\EslUdpTest.dll
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\EslUdpTest\bin\Debug\EslUdpTest.pdb
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\EslUdpTest\obj\Debug\EslUdpTest.dll
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\EslUdpTest\obj\Debug\EslUdpTest.pdb
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\EslUdpTest\bin\Debug\System.Net.Http.dll
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\EslUdpTest\bin\Debug\System.Net.Http.xml

@@ -1,0 +1,14 @@
+C:\Users\abby\Desktop\ESL\SmcEslLibCom\SmcEslLibCom\bin\Release\SmcEslLib.dll
+C:\Users\abby\Desktop\ESL\SmcEslLibCom\SmcEslLibCom\bin\Release\SmcEslLib.pdb
+C:\Users\abby\Desktop\ESL\SmcEslLibCom\SmcEslLibCom\bin\Release\System.Net.Http.dll
+C:\Users\abby\Desktop\ESL\SmcEslLibCom\SmcEslLibCom\bin\Release\System.Net.Http.xml
+C:\Users\abby\Desktop\ESL\SmcEslLibCom\SmcEslLibCom\obj\Release\SmcEslLib.dll
+C:\Users\abby\Desktop\ESL\SmcEslLibCom\SmcEslLibCom\obj\Release\SmcEslLib.pdb
+C:\Users\abby\Desktop\ESL\SmcEslLibCom\SmcEslLibCom\obj\Release\SmcEslLib.csprojResolveAssemblyReference.cache
+C:\Users\abby\Desktop\ESL\SmcEslLibWiFi\SmcEslLibCom\bin\Release\SmcEslLib.dll
+C:\Users\abby\Desktop\ESL\SmcEslLibWiFi\SmcEslLibCom\bin\Release\SmcEslLib.pdb
+C:\Users\abby\Desktop\ESL\SmcEslLibWiFi\SmcEslLibCom\bin\Release\System.Net.Http.dll
+C:\Users\abby\Desktop\ESL\SmcEslLibWiFi\SmcEslLibCom\bin\Release\System.Net.Http.xml
+C:\Users\abby\Desktop\ESL\SmcEslLibWiFi\SmcEslLibCom\obj\Release\SmcEslLib.csprojResolveAssemblyReference.cache
+C:\Users\abby\Desktop\ESL\SmcEslLibWiFi\SmcEslLibCom\obj\Release\SmcEslLib.dll
+C:\Users\abby\Desktop\ESL\SmcEslLibWiFi\SmcEslLibCom\obj\Release\SmcEslLib.pdb

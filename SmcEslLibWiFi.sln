@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmcEslLib", "SmcEslLibCom\SmcEslLib.csproj", "{BF6D0ED6-A5CA-429A-B996-3ED3E70214AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EslUdpTest", "EslUdpTest\EslUdpTest.csproj", "{105E055E-8623-4FF9-8765-70EB3A936135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6D0ED6-A5CA-429A-B996-3ED3E70214AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6D0ED6-A5CA-429A-B996-3ED3E70214AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6D0ED6-A5CA-429A-B996-3ED3E70214AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6D0ED6-A5CA-429A-B996-3ED3E70214AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105E055E-8623-4FF9-8765-70EB3A936135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105E055E-8623-4FF9-8765-70EB3A936135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105E055E-8623-4FF9-8765-70EB3A936135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105E055E-8623-4FF9-8765-70EB3A936135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

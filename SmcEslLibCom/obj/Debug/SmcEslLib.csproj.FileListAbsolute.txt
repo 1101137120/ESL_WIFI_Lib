@@ -1,0 +1,7 @@
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\SmcEslLibCom\obj\Debug\SmcEslLib.csprojResolveAssemblyReference.cache
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\SmcEslLibCom\bin\Debug\SmcEslLib.dll
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\SmcEslLibCom\bin\Debug\SmcEslLib.pdb
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\SmcEslLibCom\obj\Debug\SmcEslLib.dll
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\SmcEslLibCom\obj\Debug\SmcEslLib.pdb
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\SmcEslLibCom\bin\Debug\System.Net.Http.dll
+c:\users\abby\documents\visual studio 2015\Projects\SmcEslLibCom\SmcEslLibCom\bin\Debug\System.Net.Http.xml
